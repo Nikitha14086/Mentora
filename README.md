@@ -44,8 +44,4 @@ Mentora is an interactive chatbot built using [Gradio](https://gradio.app/) that
 
 ---
 
-## 👩‍💻 Created by
 
-Nikitha Gajjala  
-B.Tech Student, BVRIT Hyderabad  
-🔗 [LinkedIn](https://www.linkedin.com/in/nikitha-gajjala-2b6201340/)
